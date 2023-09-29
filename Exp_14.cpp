@@ -1,5 +1,7 @@
-/*General Inheritence 
+/*Name-Purvansha Gehlod
+PRN-22070123088
 Exp_14
+General Inheritence
 Part 1
 */
 #include<iostream>
